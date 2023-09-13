@@ -1,0 +1,25 @@
+.icons {
+  display: flex;
+  margin-top: 20px;
+}
+.icon{
+  margin-right: 15px;
+  /*border:1px solid #000;*/
+}
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
